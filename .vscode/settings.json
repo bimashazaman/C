@@ -2,5 +2,6 @@
   "files.associations": {
     "*.java": "java",
     "Struct.C": "cpp"
-  }
+  },
+  "C_Cpp.errorSquiggles": "Disabled"
 }
